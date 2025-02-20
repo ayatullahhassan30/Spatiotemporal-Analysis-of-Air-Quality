@@ -1,1 +1,1 @@
-#Spatiotemporal Analysis of Air Quality
+Spatiotemporal Analysis of Air Quality
